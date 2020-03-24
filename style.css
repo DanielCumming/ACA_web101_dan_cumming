@@ -50,7 +50,7 @@ nav > a {
   transition: .5s;
 }
 
-a .has-border:hover {
+a:hover {
   background-color: #3ab6a6;
 }
 
